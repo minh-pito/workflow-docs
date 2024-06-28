@@ -14,10 +14,16 @@
 ## Fundamentals
 
 * [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
+  * [📝 Permissions](fundamentals/getting-set-up/permissions.md)
 
-## Use Cases
+## WIKI
 
-* [🦄 For Product](use-cases/for-product.md)
-* [🖥️ For Developers](use-cases/for-developers/README.md)
-  * [Backend Setup](use-cases/for-developers/backend-setup.md)
+* [🦄 For Product](wiki/for-product.md)
+* [🖥️ For Developer](wiki/for-developer/README.md)
+  * [Environments](wiki/for-developer/environments.md)
+  * [Tools](wiki/for-developer/tools.md)
+  * [Backend Setup](wiki/for-developer/backend-setup.md)
+
+## BEST PRACTICE
+
+* [💪 Engineers](best-practice/engineers.md)
