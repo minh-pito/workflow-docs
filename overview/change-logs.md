@@ -8,6 +8,8 @@ All notable changes to [PITO Workflow](change-logs.md) will be documented in thi
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+[Version tags](https://github.com/pitovn/be-platform/tags)
+
 ## Unreleased
 
 * Integrate kafka for event-driven

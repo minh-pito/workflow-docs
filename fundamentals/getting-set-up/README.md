@@ -1,10 +1,16 @@
+---
+description: Automation workflow
+---
+
 # 🛠️ Getting set up
 
 <details>
 
-<summary>Step1: Creating your organization</summary>
+<summary>Step1: Creating automation for this workflow</summary>
 
+[https://n8n.io/](https://n8n.io/)
 
+[https://zapier.com/](https://zapier.com/)
 
 </details>
 
@@ -18,7 +24,7 @@
 
 <details>
 
-<summary>Step 3: Making your first post</summary>
+<summary>Step 3: Making your first test</summary>
 
 
 
@@ -26,7 +32,7 @@
 
 <details>
 
-<summary>Step 4: Publishing a post</summary>
+<summary>Step 4: Publishing a workflow</summary>
 
 
 

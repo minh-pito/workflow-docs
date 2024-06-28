@@ -30,7 +30,7 @@ Caution: squash all commits if there are multiple commits ([https://www.geeksfor
 3. **Code Review (dev team)**
 
 * [ ] Create a Pull Request (PR) in GitHub, referencing the Jira ticket.
-* [ ] Include a detailed release note in the PR.
+* [ ] Include a detailed release note in the PR. ([ref](https://github.com/pitovn/be-platform/pull/116))
 * [ ] Notify the team for code review (can use slack).
 * [ ] Address any feedback and make necessary changes.
 * [ ] Obtain approval and merge the PR into the develop branch.
@@ -48,7 +48,7 @@ Caution: squash all commits if there are multiple commits ([https://www.geeksfor
 5. **Notification and Jira Update (product x dev team)**
 
 * [ ] After merging the PR, automatically update the Jira ticket status to "In Review" or "In Testing".
-* [ ] Send a notification to Slack with the release note and ticket status update (include referencing the jira ticket).
+* [ ] Send a notification to Slack with the release note and ticket status update (including referencing the jira ticket).
 
 6. **Production Deployment (product x dev team)**
 
@@ -69,5 +69,5 @@ Diagram for this pipeline
 {% endembed %}
 
 {% hint style="info" %}
-Do all this by hand? 🥱 👎 to be continue....
+Do all this by hand? 🥱 👎 to be continue.... [getting-set-up](../fundamentals/getting-set-up/ "mention")
 {% endhint %}
