@@ -5,7 +5,7 @@
 ## Overview
 
 * [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [✨ Change logs](overview/change-logs.md)
 
 ## Product Guides
 

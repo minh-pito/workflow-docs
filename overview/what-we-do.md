@@ -61,7 +61,8 @@ Caution: squash all commits if there are multiple commits ([https://www.geeksfor
 
 * [ ] Update the Jira ticket status to "Done" or "Closed".
 * [ ] Send a final notification to Slack confirming the deployment went live.
-* [ ] Document any relevant details or issues encountered during deployment. (change logs)
+* [ ] Document any relevant details or issues encountered during deployment.
+* [ ] Additional change logs
 
 {% embed url="https://www.mermaidchart.com/raw/2ae2e5bc-bd2e-426c-930e-8c688dd02701?format=svg&theme=light&version=v0.1" %}
 Diagram for this pipeline

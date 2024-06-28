@@ -34,8 +34,8 @@ This workflow provides several benefits, including:
 [what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/change-logs.md" %}
+[change-logs.md](overview/change-logs.md)
 {% endcontent-ref %}
 
 ## Get Started
